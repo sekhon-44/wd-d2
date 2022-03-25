@@ -1,0 +1,23 @@
+{
+  "name": "wd2-day06",
+  "version": "1.0.0",
+  "description": "Working with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbsolcraft/WD2-Day06.git"
+  },
+  "keywords": [],
+  "author": "Joshua Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbsolcraft/WD2-Day06/issues"
+  },
+  "homepage": "https://github.com/jbsolcraft/WD2-Day06#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
