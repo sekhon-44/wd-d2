@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('../fonts/kaushanscript-regular.woff2') format('woff2'),
+         url('../fonts/kaushanscript-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sofiapro-light';
+    src: url('../fonts/sofiapro-light.woff2') format('woff2'),
+         url('../fonts/sofiapro-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'KlartextMono-Light';
+    src: url('../fonts/KlartextMono-Light.woff2') format('woff2'),
+         url('../fonts/KlartextMono-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	font-family: 'KlartextMono-Light', serif;
+}
+
+h1, h2, h3 {
+	font-family: 'sofiapro-light', sans-serif;
+}
+
+header h1 {
+	font-family: 'kaushan_scriptregular', sans-serif;
+}
+

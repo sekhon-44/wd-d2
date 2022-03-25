@@ -1,0 +1,13 @@
+.wrapper {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-color: #fff;
+	@media (min-width: $tablet-small){
+		max-width: 720px;
+		margin: 0 auto;
+	}
+	main {
+		flex: 1;
+	}
+}

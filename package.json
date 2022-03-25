@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jbsolcraft/WD2-Day06#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^3.0.0"
   }
 }

@@ -4,3 +4,6 @@
 *.scss.map
 
 node_modules/
+
+dist/
+dev/styles/
